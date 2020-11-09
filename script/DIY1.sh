@@ -2,4 +2,4 @@
 sed -i 's/192.168.1.1/192.168.31.88/g' package/base-files/files/bin/config_generate
 
 # Define Default
-sed -i '/option disabled/d' /etc/config/wireless
+#sed -i '/option disabled/d' /etc/config/wireless
