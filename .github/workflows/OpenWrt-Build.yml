@@ -27,8 +27,8 @@ env:
   CONF_FILE: wmm003n
   PKG_LEAN: true
   PKG_LIENOL: true
-  SSH_ACTION: false
-  UPLOAD_RELEASE: true
+  SSH_ACTION: true
+  UPLOAD_RELEASE: false
   UPLOAD_FIRMWARE: true
   #####################################################
 
